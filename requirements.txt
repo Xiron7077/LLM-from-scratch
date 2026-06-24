@@ -1,0 +1,19 @@
+# Machine Learning & Tensors
+torch
+
+# Hugging Face Ecosystem & NLP
+transformers
+sentence-transformers
+
+# Document Processing & Indexing
+PyMuPDF      # Used for PDF extraction (fitz)
+faiss-cpu    # Vector similarity search (can use faiss-gpu if you have a compatible GPU)
+
+# Data Fetching & Utilities
+requests
+arxiv
+matplotlib
+
+# Jupyter
+jupyter
+ipykernel
